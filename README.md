@@ -30,7 +30,7 @@
 
 - :seedling: On a journey to self love andself development.
 
-- :zap: In my free time, I love to read and watch Anime.
+- :zap: In my free time, I love to read novels and watch Anime.
 
 - :mailbox: Shoot me a mail at:   efuas33@gmail.com
 - 🤔 I’m looking for open roles in Software Development.
