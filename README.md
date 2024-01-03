@@ -10,9 +10,6 @@
   <a href="https://www.youtube.com/channel/UCXUrudzgEJzncPK6y6bZ9Qg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.efuas.me/">
-    <img src="https://img.shields.io/badge/PortFolio Site-blue?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
    <img src="https://komarev.com/ghpvc/?username=EfuaS&style=flat-square&color=blue" alt=""/>
@@ -31,11 +28,9 @@
 
 ### :woman_technologist: About Me :  I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Ghana.
 
-
-- :telescope: I sometimes work as a Fullstack Engineer due to my experience with PHP and MySQL. 
 - :seedling: On a journey to self love andself development.
 
-- :zap: In my free time, I solve problems on Codewars and watch Japanese Anime.
+- :zap: In my free time, I love to read and watch Anime.
 
 - :mailbox: Shoot me a mail at:   efuas33@gmail.com
 - 🤔 I’m looking for open roles in Software Development.
